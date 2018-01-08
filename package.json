@@ -1,0 +1,19 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "webscraping challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manCity11/webscraping.git"
+  },
+  "author": "Inthalak SIRASA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manCity11/webscraping/issues"
+  },
+  "homepage": "https://github.com/manCity11/webscraping#readme"
+}
